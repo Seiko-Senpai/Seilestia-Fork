@@ -19,9 +19,9 @@
             "#fb4934"
         ],
         "BACKGROUND_FLOATING": [
-            "#102b47",
-            "#102b47",
-            "#102b47"
+            "#47103e",
+            "#47103e",
+            "#47103e"
         ],
         "BACKGROUND_MENTIONED": [
             "#bdae931a",
@@ -319,9 +319,9 @@
             "#dcddde"
         ],
         "INPUT_BACKGROUND": [
-            "#102b47",
-            "#102b47",
-            "#102b47"
+            "#47103e",
+            "#47103e",
+            "#47103e"
         ],
         "INTERACTIVE_ACTIVE": [
             "#2780E6",
@@ -480,7 +480,7 @@
         "PRIMARY_400": "#0f4480",
         "PRIMARY_460": "#061428",
         "PRIMARY_500": "#114d91",
-        "PRIMARY_560": "#102b47",
+        "PRIMARY_560": "#47103e",
         "PRIMARY_600": "#061428",
         "PRIMARY_630": "#000000",
         "PRIMARY_660": "#000000",
@@ -523,12 +523,12 @@
         "version": 0,
         "customOverlays": true,
         "icons": {
-            "ic_mic_neutral": "#102b47",
-            "ic_mic_muted_neutral": "#102b47",
-            "ic_soundboard":"#102b47",
-            "ic_soundboard_muted": "#102b47",
-            "ic_video": "#102b47",
-            "ic_video_disabled": "#102b47"
+            "ic_mic_neutral": "#47103e",
+            "ic_mic_muted_neutral": "#47103e",
+            "ic_soundboard":"#47103e",
+            "ic_soundboard_muted": "#47103e",
+            "ic_video": "#47103e",
+            "ic_video_disabled": "#47103e"
         },
         "iconpack":"rosiecord-plumpy"
     },
