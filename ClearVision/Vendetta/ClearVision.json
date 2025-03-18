@@ -59,14 +59,14 @@
             "#592255"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#2678d626",
+            "#c426d6",
             "#28062226",
-            "#2678d626"
+            "#c426d6"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#2678d626",
+            "#c426d6",
             "#28062226",
-            "#2678d626"
+            "#c426d6"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#2678d699",
@@ -261,7 +261,7 @@
         "INFO_DANGER_BACKGROUND": [
             "#480a3a",
             "#dcddde",
-            "#071e36"
+            "#260736"
         ],
         "INFO_DANGER_FOREGROUND": [
             "#280622",
@@ -279,7 +279,7 @@
             "#000000"
         ],
         "INFO_HELP_FOREGROUND": [
-            "#071e36",
+            "#260736",
             "#dbeafa",
             "#000000"
         ],
@@ -294,7 +294,7 @@
             "#000000"
         ],
         "INFO_POSITIVE_FOREGROUND": [
-            "#071e36",
+            "#260736",
             "#dbeafa",
             "#000000"
         ],
@@ -309,7 +309,7 @@
             "#000000"
         ],
         "INFO_WARNING_FOREGROUND": [
-            "#071e36",
+            "#260736",
             "#dbeafa",
             "#000000"
         ],
@@ -345,7 +345,7 @@
         ],
         "LOGO_PRIMARY": [
             "#83a598",
-            "#076678",
+            "#260736",
             "#83a598"
         ],
 	"MENTION_FOREGROUND": [
@@ -400,7 +400,7 @@
         ],
         "STATUS_DANGER_TEXT": [
             "#83a598",
-            "#076678",
+            "#260736",
             "#83a598"
         ],
         "STATUS_POSITIVE_BACKGROUND": [
@@ -429,9 +429,9 @@
 	    "#660055"
 	],
         "TEXTBOX_MARKDOWN_SYNTAX": [
-            "#076678",
-            "#076678",
-            "#076678"
+            "#260736",
+            "#260736",
+            "#260736"
         ],
         "TEXT_DANGER": [
             "#fb4934",
