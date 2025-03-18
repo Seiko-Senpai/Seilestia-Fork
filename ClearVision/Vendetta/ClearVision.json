@@ -84,19 +84,19 @@
             "#280622"
         ],
         "BACKGROUND_SECONDARY": [
-            "#0a1426",
-            "#0a1426",
-            "#0a1426"
+            "#260a25",
+            "#260a25",
+            "#260a25"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#111423",
-            "#111423",
-            "#111423"
+            "#231121",
+            "#231121",
+            "#231121"
         ],
         "BACKGROUND_TERTIARY": [
-            "#04122e",
-            "#04122e",
-            "#04122e"
+            "#2e0424",
+            "#2e0424",
+            "#2e0424"
         ],
 	"BG_BACKDROP": [
 	    "#102b48b3",
@@ -104,14 +104,14 @@
 	    "#102b48b3"
 	],
 	"BG_BASE_PRIMARY": [
-	    "#03081c",
-	    "#03081c",
-	    "#03081c"
+	    "#1c0318",
+	    "#1c0318",
+	    "#1c0318"
 	],
 	"BG_SURFACE_OVERLAY_TMP": [
-            "#03081c",
-	    "#03081c",
-	    "#03081c"
+            "#1c0318",
+	    "#1c0318",
+	    "#1c0318"
         ],
         "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
             "#480a3a",
@@ -119,14 +119,14 @@
             "#000000"
         ],
 	"CARD_PRIMARY_BG": [
-	    "#03081c",
-	    "#03081c",
-	    "#03081c"
+	    "#1c0318",
+	    "#1c0318",
+	    "#1c0318"
 	],
 	"CARD_SECONDARY_BG": [
-	    "#03081c",
-	    "#03081c",
-	    "#03081c"
+	    "#1c0318",
+	    "#1c0318",
+	    "#1c0318"
 	],
         "CHANNELS_DEFAULT": [
             "#575a68",
@@ -144,14 +144,14 @@
             "transparent"
         ],
 	"CHAT_SWIPE_TO_REPLY_BACKGROUND": [
-	    "#0f1428",
-	    "#0f1428",
-	    "#0f1428"
+	    "#ef81e6",
+	    "#ef81e6",
+	    "#ef81e6"
 	],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
-            "#81b6ef",
-            "#81b6ef",
-            "#81b6ef"
+            "#ef81d9",
+            "#ef81d9",
+            "#ef81d9"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#480a3a",
@@ -234,9 +234,9 @@
             "#000000"
         ],
 	"EXPRESSION_PICKER_BG": [
-	    "#111423",
-	    "#111423",
-	    "#111423"
+	    "#231121",
+	    "#231121",
+	    "#231121"
 	],
         "FOCUS_PRIMARY": [
             "#480a3a",
@@ -339,9 +339,9 @@
             "#3f414c"
         ],
         "INTERACTIVE_NORMAL": [
-            "#81b6ef",
-            "#81b6ef",
-            "#81b6ef"
+            "#ef81d9",
+            "#ef81d9",
+            "#ef81d9"
         ],
         "LOGO_PRIMARY": [
             "#83a598",
@@ -359,14 +359,14 @@
             "#000000"
         ],
 	"PANEL_BG": [
-	    "#111423",
-            "#111423",
-            "#111423"
+	    "#231121",
+            "#231121",
+            "#231121"
 	],
 	"REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-	    "#03081c",
-	    "#03081c",
-	    "#03081c"
+	    "#1c0318",
+	    "#1c0318",
+	    "#1c0318"
 	],
 	"REDESIGN_BUTTON_SECONDARY_BORDER": [
 	    "#592255",
@@ -511,9 +511,9 @@
         "GREEN_360": "#689d6a",
         "WHITE_500": "#dcddde",
         "YELLOW_300": "#2780E6",
-	"PLUM_20": "#111423",
+	"PLUM_20": "#231121",
 	"PLUM_16": "#111533",
-	"PLUM_22": "#0f1428"
+	"PLUM_22": "#ef81e6"
     },
     "background": {
         "url": "https://raw.githubusercontent.com/Seiko-Senpai/Seilestia-Fork/refs/heads/main/ClearVision/Vendetta/dark.png",
