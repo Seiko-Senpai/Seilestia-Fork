@@ -24,19 +24,19 @@
             "#47103e"
         ],
         "BACKGROUND_MENTIONED": [
-            "#bdae931a",
-            "#665c541a",
-            "#bdae931a"
+            "#bdae93",
+            "#665c54",
+            "#bdae93"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#bdae931a",
-            "#665c541a",
-            "#bdae931a"
+            "#bdae93",
+            "#665c54",
+            "#bdae93"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#bdae931a",
-            "#665c541a",
-            "#bdae931a"
+            "#bdae93",
+            "#665c54",
+            "#bdae93"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#280622",
@@ -60,12 +60,12 @@
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#c426d6",
-            "#28062226",
+            "#280622",
             "#c426d6"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#c426d6",
-            "#28062226",
+            "#280622",
             "#c426d6"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
@@ -99,9 +99,9 @@
             "#2e0424"
         ],
 	"BG_BACKDROP": [
-	    "#102b48b3",
-	    "#102b48b3",
-	    "#102b48b3"
+	    "#481034",
+	    "#481034",
+	    "#481034"
 	],
 	"BG_BASE_PRIMARY": [
 	    "#1c0318",
@@ -134,9 +134,9 @@
             "#575a68"			
         ],
         "CHANNEL_ICON": [
-            "#cd27e64d",
-            "#cd27e64d",
-            "#cd27e64d"
+            "#cd27e6",
+            "#cd27e6",
+            "#cd27e6"
         ],
         "CHAT_BACKGROUND": [
             "transparent",
@@ -224,9 +224,9 @@
             "#000000"
         ],
 	"EMBED_BACKGROUND": [
-	    "#031d30b3",
-	    "#031d30b3",
-	    "#031d30b3"
+	    "#30032c",
+	    "#30032c",
+	    "#30032c"
 	],
         "ELEVATION_STROKE": [
             "#480a3a",
