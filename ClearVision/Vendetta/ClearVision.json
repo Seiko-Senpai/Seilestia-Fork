@@ -24,9 +24,9 @@
             "#47103e"
         ],
         "BACKGROUND_MENTIONED": [
-            "#bdae93",
-            "#665c54",
-            "#bdae93"
+            "#80bdae93",
+            "#80665c54",
+            "#80bdae93"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
             "#80bdae93",
