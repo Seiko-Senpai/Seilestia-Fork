@@ -29,14 +29,14 @@
             "#bdae93"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#bdae931a",
-            "#665c541a",
-            "#bdae931a"
+            "#bdae9380",
+            "#665c5480",
+            "#bdae9380"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#bdae931a",
-            "#665c541a",
-            "#bdae931a"
+            "#bdae9380",
+            "#665c5480",
+            "#bdae9380"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#280622",
