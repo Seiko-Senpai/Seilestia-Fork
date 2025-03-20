@@ -29,14 +29,14 @@
             "#bdae93"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#bdae93",
-            "#665c54",
-            "#bdae93"
+            "#bdae931a",
+            "#665c541a",
+            "#bdae931a"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#bdae93",
-            "#665c54",
-            "#bdae93"
+            "#bdae931a",
+            "#665c541a",
+            "#bdae931a"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#280622",
@@ -59,19 +59,19 @@
             "#592255"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#c426d6",
-            "#280622",
-            "#c426d6"
+            "#c426d626",
+            "#28062226",
+            "#c426d626"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#c426d6",
-            "#280622",
-            "#c426d6"
+            "#c426d626",
+            "#28062226",
+            "#c426d626"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#d62bd3",
-            "#d62bd3",
-            "#d62bd3"
+            "#d62bd399",
+            "#d62bd399",
+            "#d62bd399"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#480a3a",
@@ -99,9 +99,9 @@
             "#2e0424"
         ],
 	"BG_BACKDROP": [
-	    "#481034",
-	    "#481034",
-	    "#481034"
+	    "#481034b3",
+	    "#481034b3",
+	    "#481034b3"
 	],
 	"BG_BASE_PRIMARY": [
 	    "#1c0318",
@@ -224,9 +224,9 @@
             "#000000"
         ],
 	"EMBED_BACKGROUND": [
-	    "#30032c",
-	    "#30032c",
-	    "#30032c"
+	    "#30032cb3",
+	    "#30032cb3",
+	    "#30032cb3"
 	],
         "ELEVATION_STROKE": [
             "#480a3a",
