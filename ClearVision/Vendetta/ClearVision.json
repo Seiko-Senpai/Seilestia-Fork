@@ -24,19 +24,19 @@
             "#47103e"
         ],
         "BACKGROUND_MENTIONED": [
-            "#80bdae93",
-            "#80665c54",
-            "#80bdae93"
+            "#bd95b6",
+            "#644e66",
+            "#bd95b6"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#80bdae93",
-            "#80665c54",
-            "#80bdae93"
+            "#bd95b6",
+            "#644e66",
+            "#bd95b6"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#80bdae93",
-            "#80665c54",
-            "#80bdae93"
+            "#bd95b6",
+            "#644e66",
+            "#bd95b6"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#280622",
